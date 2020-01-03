@@ -1,31 +1,8 @@
 const request = require('request-promise');
 const cheerio = require('cheerio');
 const fs = require('fs');
-const URLS = [
-    'https://www.imdb.com/title/tt0371746/?ref_=fn_al_tt_1',
-    'https://www.imdb.com/title/tt1228705/?ref_=tt_sims_tti',
-    'https://www.imdb.com/title/tt1300854/?ref_=tt_sims_tti',
-    'https://www.imdb.com/title/tt0458339/?ref_=tt_sims_tti',
-    'https://www.imdb.com/title/tt1843866/?ref_=tt_sims_tti',
-    'https://www.imdb.com/title/tt3498820/?ref_=tt_sims_tti',
-    'https://www.imdb.com/title/tt0800369/?ref_=tt_sims_tti',
-    'https://www.imdb.com/title/tt1981115/?ref_=tt_sims_tti',
-    'https://www.imdb.com/title/tt3501632/?ref_=tt_sims_tti',
-    'https://www.imdb.com/title/tt0800080/?ref_=nv_sr_srsg_0',
-    'https://www.imdb.com/title/tt0848228/?ref_=tt_sims_tti',
-    'https://www.imdb.com/title/tt2395427/?ref_=tt_sims_tti',
-    'https://www.imdb.com/title/tt4154756/?ref_=nv_sr_srsg_0',
-    'https://www.imdb.com/title/tt4154796/?ref_=tt_sims_tti',
-    'https://www.imdb.com/title/tt0478970/?ref_=nv_sr_srsg_0',
-    'https://www.imdb.com/title/tt5095030/?ref_=tt_sims_tti',
-    'https://www.imdb.com/title/tt2250912/?ref_=nv_sr_srsg_0',
-    'https://www.imdb.com/title/tt6320628/?ref_=tt_sims_tti',
-    'https://www.imdb.com/title/tt2015381/?ref_=tt_sims_tti',
-    'https://www.imdb.com/title/tt3896198/?ref_=tt_sims_tti',
-    'https://www.imdb.com/title/tt1211837/?ref_=tt_sims_tti',
-    'https://www.imdb.com/title/tt4154664/?ref_=nv_sr_srsg_0',
-    'https://www.imdb.com/title/tt1825683/?ref_=nv_sr_srsg_0',
-];
+const url = require('./URL');
+const URLS = url;
 
 (async  () =>{
     let movieData = [];
