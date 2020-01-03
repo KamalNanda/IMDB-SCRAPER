@@ -1,0 +1,623 @@
+[
+    {
+        "title": "Iron Man(2008)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SY264_CR0,0,178,264_AL_.jpg",
+        "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "actors": [
+            "Robert Downey Jr.",
+            "Terrence Howard",
+            "Jeff Bridges",
+            "Gwyneth Paltrow",
+            "Leslie Bibb",
+            "Shaun Toub",
+            "Faran Tahir",
+            "Clark Gregg",
+            "Bill Smitrovich",
+            "Sayed Badreya",
+            "Paul Bettany",
+            "Jon Favreau",
+            "Peter Billingsley",
+            "Tim Guinee",
+            "Will Lyman"
+        ]
+    },
+    {
+        "title": "Iron Man 2(2010)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1_SX178_AL_.jpg",
+        "description": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "actors": [
+            "Robert Downey Jr.",
+            "Gwyneth Paltrow",
+            "Don Cheadle",
+            "Scarlett Johansson",
+            "Sam Rockwell",
+            "Mickey Rourke",
+            "Samuel L. Jackson",
+            "Clark Gregg",
+            "John Slattery",
+            "Garry Shandling",
+            "Paul Bettany",
+            "Kate Mara",
+            "Leslie Bibb",
+            "Jon Favreau",
+            "Christiane Amanpour"
+        ]
+    },
+    {
+        "title": "Iron Man 3(2013)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_SY264_CR3,0,178,264_AL_.jpg",
+        "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "actors": [
+            "Robert Downey Jr.",
+            "Gwyneth Paltrow",
+            "Don Cheadle",
+            "Guy Pearce",
+            "Rebecca Hall",
+            "Jon Favreau",
+            "Ben Kingsley",
+            "James Badge Dale",
+            "Stephanie Szostak",
+            "Paul Bettany",
+            "William Sadler",
+            "Dale Dickey",
+            "Ty Simpkins",
+            "Miguel Ferrer",
+            "Xueqi Wang"
+        ]
+    },
+    {
+        "title": "Captain America: The First Avenger(2011)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_SX178_AL_.jpg",
+        "description": "Steve Rogers, a rejected military soldier transforms into Captain America after taking a dose of a \"Super-Soldier serum\". But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "actors": [
+            "Chris Evans",
+            "Hayley Atwell",
+            "Sebastian Stan",
+            "Tommy Lee Jones",
+            "Hugo Weaving",
+            "Dominic Cooper",
+            "Richard Armitage",
+            "Stanley Tucci",
+            "Samuel L. Jackson",
+            "Toby Jones",
+            "Neal McDonough",
+            "Derek Luke",
+            "Kenneth Choi",
+            "JJ Feild",
+            "Bruno Ricci"
+        ]
+    },
+    {
+        "title": "Captain America: The Winter Soldier(2014)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_SY264_CR1,0,178,264_AL_.jpg",
+        "description": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "actors": [
+            "Chris Evans",
+            "Samuel L. Jackson",
+            "Scarlett Johansson",
+            "Robert Redford",
+            "Sebastian Stan",
+            "Anthony Mackie",
+            "Cobie Smulders",
+            "Frank Grillo",
+            "Maximiliano Hernández",
+            "Emily VanCamp",
+            "Hayley Atwell",
+            "Toby Jones",
+            "Stan Lee",
+            "Callan Mulvey",
+            "Jenny Agutter"
+        ]
+    },
+    {
+        "title": "Captain America: Civil War(2016)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_SY264_CR0,0,178,264_AL_.jpg",
+        "description": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "actors": [
+            "Chris Evans",
+            "Robert Downey Jr.",
+            "Scarlett Johansson",
+            "Sebastian Stan",
+            "Anthony Mackie",
+            "Don Cheadle",
+            "Jeremy Renner",
+            "Chadwick Boseman",
+            "Paul Bettany",
+            "Elizabeth Olsen",
+            "Paul Rudd",
+            "Emily VanCamp",
+            "Tom Holland",
+            "Daniel Brühl",
+            "Frank Grillo"
+        ]
+    },
+    {
+        "title": "Thor(2011)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SY264_CR0,0,178,264_AL_.jpg",
+        "description": "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "actors": [
+            "Chris Hemsworth",
+            "Natalie Portman",
+            "Tom Hiddleston",
+            "Anthony Hopkins",
+            "Stellan Skarsgård",
+            "Kat Dennings",
+            "Clark Gregg",
+            "Colm Feore",
+            "Idris Elba",
+            "Ray Stevenson",
+            "Tadanobu Asano",
+            "Josh Dallas",
+            "Jaimie Alexander",
+            "Rene Russo",
+            "Adriana Barraza"
+        ]
+    },
+    {
+        "title": "Thor: The Dark World(2013)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_SY264_CR3,0,178,264_AL_.jpg",
+        "description": "When the Dark Elves attempt to plunge the universe into darkness, Thor must embark on a perilous and personal journey that will reunite him with doctor Jane Foster.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "actors": [
+            "Chris Hemsworth",
+            "Natalie Portman",
+            "Tom Hiddleston",
+            "Anthony Hopkins",
+            "Christopher Eccleston",
+            "Jaimie Alexander",
+            "Zachary Levi",
+            "Ray Stevenson",
+            "Tadanobu Asano",
+            "Idris Elba",
+            "Rene Russo",
+            "Adewale Akinnuoye-Agbaje",
+            "Kat Dennings",
+            "Stellan Skarsgård",
+            "Alice Krige"
+        ]
+    },
+    {
+        "title": "Thor: Ragnarok(2017)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_SY264_CR0,0,178,264_AL_.jpg",
+        "description": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "actors": [
+            "Chris Hemsworth",
+            "Tom Hiddleston",
+            "Cate Blanchett",
+            "Idris Elba",
+            "Jeff Goldblum",
+            "Tessa Thompson",
+            "Karl Urban",
+            "Mark Ruffalo",
+            "Anthony Hopkins",
+            "Benedict Cumberbatch",
+            "Taika Waititi",
+            "Rachel House",
+            "Clancy Brown",
+            "Tadanobu Asano",
+            "Ray Stevenson"
+        ]
+    },
+    {
+        "title": "The Incredible Hulk(2008)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_SY264_CR0,0,178,264_AL_.jpg",
+        "description": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into, whenever he loses his temper.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "actors": [
+            "Edward Norton",
+            "Liv Tyler",
+            "Tim Roth",
+            "William Hurt",
+            "Tim Blake Nelson",
+            "Ty Burrell",
+            "Christina Cabot",
+            "Peter Mensah",
+            "Lou Ferrigno",
+            "Paul Soles",
+            "Débora Nascimento",
+            "Greg Bryk",
+            "Chris Owens",
+            "Al Vrkljan",
+            "Adrian Hein"
+        ]
+    },
+    {
+        "title": "The Avengers(2012)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY264_CR0,0,178,264_AL_.jpg",
+        "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "actors": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo",
+            "Chris Hemsworth",
+            "Scarlett Johansson",
+            "Jeremy Renner",
+            "Tom Hiddleston",
+            "Clark Gregg",
+            "Cobie Smulders",
+            "Stellan Skarsgård",
+            "Samuel L. Jackson",
+            "Gwyneth Paltrow",
+            "Paul Bettany",
+            "Alexis Denisof",
+            "Tina Benko"
+        ]
+    },
+    {
+        "title": "Avengers: Age of Ultron(2015)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SY264_CR0,0,178,264_AL_.jpg",
+        "description": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "actors": [
+            "Robert Downey Jr.",
+            "Chris Hemsworth",
+            "Mark Ruffalo",
+            "Chris Evans",
+            "Scarlett Johansson",
+            "Jeremy Renner",
+            "James Spader",
+            "Samuel L. Jackson",
+            "Don Cheadle",
+            "Aaron Taylor-Johnson",
+            "Elizabeth Olsen",
+            "Paul Bettany",
+            "Cobie Smulders",
+            "Anthony Mackie",
+            "Hayley Atwell"
+        ]
+    },
+    {
+        "title": "Avengers: Infinity War(2018)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SY264_CR0,0,178,264_AL_.jpg",
+        "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "actors": [
+            "Robert Downey Jr.",
+            "Chris Hemsworth",
+            "Mark Ruffalo",
+            "Chris Evans",
+            "Scarlett Johansson",
+            "Don Cheadle",
+            "Benedict Cumberbatch",
+            "Tom Holland",
+            "Chadwick Boseman",
+            "Zoe Saldana",
+            "Karen Gillan",
+            "Tom Hiddleston",
+            "Paul Bettany",
+            "Elizabeth Olsen",
+            "Anthony Mackie"
+        ]
+    },
+    {
+        "title": "Avengers: Endgame(2019)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SY264_CR0,0,178,264_AL_.jpg",
+        "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "actors": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo",
+            "Chris Hemsworth",
+            "Scarlett Johansson",
+            "Jeremy Renner",
+            "Don Cheadle",
+            "Paul Rudd",
+            "Benedict Cumberbatch",
+            "Chadwick Boseman",
+            "Brie Larson",
+            "Tom Holland",
+            "Karen Gillan",
+            "Zoe Saldana",
+            "Evangeline Lilly"
+        ]
+    },
+    {
+        "title": "Ant-Man(2015)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_SX178_AL_.jpg",
+        "description": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "actors": [
+            "Paul Rudd",
+            "Michael Douglas",
+            "Evangeline Lilly",
+            "Corey Stoll",
+            "Bobby Cannavale",
+            "Anthony Mackie",
+            "Judy Greer",
+            "Abby Ryder Fortson",
+            "Michael Peña",
+            "David Dastmalchian",
+            "T.I.",
+            "Wood Harris",
+            "Hayley Atwell",
+            "John Slattery",
+            "Martin Donovan"
+        ]
+    },
+    {
+        "title": "Ant-Man and the Wasp(2018)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY264_CR0,0,178,264_AL_.jpg",
+        "description": "As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "actors": [
+            "Paul Rudd",
+            "Evangeline Lilly",
+            "Michael Peña",
+            "Walton Goggins",
+            "Bobby Cannavale",
+            "Judy Greer",
+            "T.I.",
+            "David Dastmalchian",
+            "Hannah John-Kamen",
+            "Abby Ryder Fortson",
+            "Randall Park",
+            "Michelle Pfeiffer",
+            "Laurence Fishburne",
+            "Michael Douglas",
+            "Divian Ladwa"
+        ]
+    },
+    {
+        "title": "Spider-Man: Homecoming(2017)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_SX178_AL_.jpg",
+        "description": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "actors": [
+            "Tom Holland",
+            "Michael Keaton",
+            "Robert Downey Jr.",
+            "Marisa Tomei",
+            "Jon Favreau",
+            "Gwyneth Paltrow",
+            "Zendaya",
+            "Donald Glover",
+            "Jacob Batalon",
+            "Laura Harrier",
+            "Tony Revolori",
+            "Bokeem Woodbine",
+            "Tyne Daly",
+            "Abraham Attah",
+            "Hannibal Buress"
+        ]
+    },
+    {
+        "title": "Spider-Man: Far from Home(2019)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY264_CR0,0,178,264_AL_.jpg",
+        "description": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "actors": [
+            "Tom Holland",
+            "Samuel L. Jackson",
+            "Jake Gyllenhaal",
+            "Marisa Tomei",
+            "Jon Favreau",
+            "Zendaya",
+            "Jacob Batalon",
+            "Tony Revolori",
+            "Angourie Rice",
+            "Remy Hii",
+            "Martin Starr",
+            "J.B. Smoove",
+            "Jorge Lendeborg Jr.",
+            "Cobie Smulders",
+            "Numan Acar"
+        ]
+    },
+    {
+        "title": "Guardians of the Galaxy(2014)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SY264_CR0,0,178,264_AL_.jpg",
+        "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "actors": [
+            "Chris Pratt",
+            "Zoe Saldana",
+            "Dave Bautista",
+            "Vin Diesel",
+            "Bradley Cooper",
+            "Lee Pace",
+            "Michael Rooker",
+            "Karen Gillan",
+            "Djimon Hounsou",
+            "John C. Reilly",
+            "Glenn Close",
+            "Benicio Del Toro",
+            "Laura Haddock",
+            "Sean Gunn",
+            "Peter Serafinowicz"
+        ]
+    },
+    {
+        "title": "Guardians of the Galaxy Vol. 2(2017)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_SX178_AL_.jpg",
+        "description": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "actors": [
+            "Chris Pratt",
+            "Zoe Saldana",
+            "Dave Bautista",
+            "Vin Diesel",
+            "Bradley Cooper",
+            "Michael Rooker",
+            "Karen Gillan",
+            "Pom Klementieff",
+            "Sylvester Stallone",
+            "Kurt Russell",
+            "Elizabeth Debicki",
+            "Chris Sullivan",
+            "Sean Gunn",
+            "Tommy Flanagan",
+            "Laura Haddock"
+        ]
+    },
+    {
+        "title": "Doctor Strange(2016)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SY264_CR0,0,178,264_AL_.jpg",
+        "description": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "actors": [
+            "Benedict Cumberbatch",
+            "Chiwetel Ejiofor",
+            "Rachel McAdams",
+            "Benedict Wong",
+            "Mads Mikkelsen",
+            "Tilda Swinton",
+            "Michael Stuhlbarg",
+            "Benjamin Bratt",
+            "Scott Adkins",
+            "Zara Phythian",
+            "Alaa Safi",
+            "Katrina Durden",
+            "Topo Wresniwiro",
+            "Umit Ulgen",
+            "Linda Louise Duan"
+        ]
+    },
+    {
+        "title": "Captain Marvel(2019)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_SY264_CR0,0,178,264_AL_.jpg",
+        "description": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "actors": [
+            "Brie Larson",
+            "Samuel L. Jackson",
+            "Ben Mendelsohn",
+            "Jude Law",
+            "Annette Bening",
+            "Djimon Hounsou",
+            "Lee Pace",
+            "Lashana Lynch",
+            "Gemma Chan",
+            "Clark Gregg",
+            "Rune Temte",
+            "Algenis Perez Soto",
+            "Mckenna Grace",
+            "Akira Akbar",
+            "Matthew Maher"
+        ]
+    },
+    {
+        "title": "Black Panther(2018)",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SY264_CR0,0,178,264_AL_.jpg",
+        "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "actors": [
+            "Chadwick Boseman",
+            "Michael B. Jordan",
+            "Lupita Nyong'o",
+            "Danai Gurira",
+            "Martin Freeman",
+            "Daniel Kaluuya",
+            "Letitia Wright",
+            "Winston Duke",
+            "Sterling K. Brown",
+            "Angela Bassett",
+            "Forest Whitaker",
+            "Andy Serkis",
+            "Florence Kasumba",
+            "John Kani",
+            "David S. Lee"
+        ]
+    }
+]
