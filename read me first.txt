@@ -1,5 +1,7 @@
-Scrapes Title, Poster Link, Genres and Description of all the MCU movies from the IMDB website
-To add a link for scrapping, add your link in the URLS array in the source code.
+Required libraries - 'request-promise', 'cheerio'
+ 
+Paste all the files in a node initiatied folder ( type 'npm init' in terminal to generate the folder) 
+Install the required libraries in the folder 
+start the scrapper by typing 'node index' in terminal 
+To add a link for scrapping, add your link in the URLS array in the source code. 
 The output is generated in data.json
-
-Required Libraries : 'node' , 'request-promise' , 'cheerio' , 'fs'
