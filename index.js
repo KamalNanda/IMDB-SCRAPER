@@ -6,7 +6,7 @@ const { fileCreater } = require('./utilities/file_writer');
 const { image_downloader } = require('./utilities/image_scraper');
 const { movieScrapper } = require('./utilities/movie_scrapper');
 
-(async  () =>{
+const scrape = async () => {
     let movieData = [];
     for(let movie of URLS) { 
        let movieObj = await movieScrapper(movie.url)
@@ -15,6 +15,8 @@ const { movieScrapper } = require('./utilities/movie_scrapper');
         image_downloader(imgLink, movie.id)
     }
     console.log(movieData);
-   fileCreater(movieData)
-})()
+    fileCreater(movieData)
+}
+
+scrape()
 
