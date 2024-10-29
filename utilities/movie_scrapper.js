@@ -20,28 +20,20 @@ export const movieScrapper = async (url) => {
         gzip: true
     });
     let $ = cheerio.load(response);
-        
-    let title = $('div[class="media-body"] > h1').text().trim();
-    let description = $('p[itemprop="description"]').text().trim();
-    let imgLink = $('div[class="media titlemain__overview-media--mobile"]> a > img').attr('data-src-x2');
-    let genres = [];
+    let movie_data = {}
+    movie_data['title'] = $('div[class="media-body"] > h1').text().trim();
+    movie_data['description'] = $('p[itemprop="description"]').text().trim();
+    movie_data['imgLink'] = $('div[class="media titlemain__overview-media--mobile"]> a > img').attr('data-src-x2');
+    movie_data['genres'] = [];
     $('span[itemprop="genre"]').each((i, element) => {
         let genre = $(element).text();
-        genres.push(genre);
+        movie_data['genres'].push(genre);
     });
-    let actors = [];
+    movie_data['actors'] = [];
     $('a[itemprop="url"]  strong').each((i, element) =>{
         let actor = $(element).text().trim();
-        actors.push(actor);
+        movie_data['actors'].push(actor);
     });
 
-    return {
-        title: title,
-        imgLink: imgLink,
-        description: description,
-        genres: genres,
-        actors: actors
-    }
-
-
+    return movie_data 
 }
